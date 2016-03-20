@@ -12,3 +12,7 @@ By downloading any binaries from here, you acknowledge that you have read the **
 http://www.nikhef.nl/~form/license/license.html
 
 and that you agree to follow them. Otherwise, using the binaries would constitute a copyright violation!
+
+Windows binary of FORM requires cygwin1.dll. This dll (and its source code) are available here
+
+https://github.com/FormLink/cygwin-files
